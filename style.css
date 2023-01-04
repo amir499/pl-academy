@@ -1,0 +1,58 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F8F9FA;
+}
+
+
+.menu a {
+    color: orange !important;
+    font-weight: 700;
+
+}
+
+.menu a:hover {
+    color: red;
+}
+
+.icon {
+    font-size: 30px;
+    color: #155724;
+}
+
+.notice {
+    background-color: #D4EDDA;
+}
+
+.department a {
+    text-decoration: none;
+}
+
+.photo {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+#album {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+
+.tal {
+    text-align: justify;
+}
+
+.bidu {
+    float: left;
+    margin: 3px;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.item img {
+    height: 180px;
+}
